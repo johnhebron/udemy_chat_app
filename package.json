@@ -1,0 +1,29 @@
+{
+  "name": "udemy_chat_app",
+  "version": "1.0.0",
+  "description": "A follow along project from my Udemy course. Building a chat app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "7.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhebron/udemy_chat_app.git"
+  },
+  "author": "John Hebron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhebron/udemy_chat_app/issues"
+  },
+  "homepage": "https://github.com/johnhebron/udemy_chat_app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}

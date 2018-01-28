@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/johnhebron/udemy_chat_app#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
   },
   "devDependencies": {
     "nodemon": "^1.14.11"
